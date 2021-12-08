@@ -91,3 +91,7 @@ input[type='text'] {
 .terms {
   display: inline-block;
 }
+.closing{
+  display: none;
+}
+
